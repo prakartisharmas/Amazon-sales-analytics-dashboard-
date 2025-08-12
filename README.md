@@ -30,3 +30,5 @@ Impact: Enabled faster, data-driven decisions by turning raw Amazon sales data i
 
 Improved visibility into product and sales performance across different dimensions and time frames.
 
+IMAGE= https://github.com/prakartisharmas/Amazon-sales-analytics-dashboard-/blob/main/snapshot%20of%20dashboard.png
+
