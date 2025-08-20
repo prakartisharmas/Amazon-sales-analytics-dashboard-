@@ -1,30 +1,34 @@
 # Amazon-sales-analytics-dashboard-
 
-Amazon Sales Analytics Dashboard: Built an interactive Power BI dashboard to analyze Amazon sales data, tracking key metrics like total sales, profit, quantity sold, and YoY growth. Included product, category, and regional performance insights with dynamic filters, drill-downs, and custom DAX measures to support data-driven decision-making.
+<img width="1295" height="730" alt="snapshot of dashboard" src="https://github.com/user-attachments/assets/2a3e07cc-f5b9-40fe-9d6c-280e23720700" />
 
-Key Features:
 
-Sales Performance Analysis: Visualized KPIs such as total sales, profit, and quantity sold across various regions, categories, and time periods.
+## Amazon Sales Analytics Dashboard:
+Built an interactive Power BI dashboard to analyze Amazon sales data, tracking key metrics like total sales, profit, quantity sold, and YoY growth. Included product, category, and regional performance insights with dynamic filters, drill-downs, and custom DAX measures to support data-driven decision-making.
 
-Product-Level Insights: Identified top-performing and underperforming products using dynamic filtering and ranking visuals.
+## Key Features:
 
-Customer Segmentation: Analyzed repeat customers, average order value, and customer location to enhance targeted marketing strategies.
+- **Sales Performance Analysis**: Visualized KPIs such as total sales, profit, and quantity sold across various regions, categories, and time periods.
 
-Time-Series Analysis: Used line charts and slicers to monitor monthly and yearly trends, seasonality, and sales growth.
+- **Product-Level Insights**: Identified top-performing and underperforming products using dynamic filtering and ranking visuals.
 
-Interactive Filters: Enabled drill-down and cross-filtering by product category, sub-category, region, and seller.
+- **Customer Segmentation**: Analyzed repeat customers, average order value, and customer location to enhance targeted marketing strategies.
 
-Custom DAX Measures: Built DAX formulas for YoY growth, profit margins, and other calculated fields.
+- **Time-Series Analysis**: Used line charts and slicers to monitor monthly and yearly trends, seasonality, and sales growth.
 
-Tools & Technologies:
+- **Interactive Filters**: Enabled drill-down and cross-filtering by product category, sub-category, region, and seller.
 
-Power BI Desktop
+- **Custom DAX Measures**: Built DAX formulas for YoY growth, profit margins, and other calculated fields.
 
-DAX (Data Analysis Expressions)
+## Tools & Technologies:
 
-Power Query Editor
+- Power BI Desktop
 
-Excel/CSV Data Sources
+- DAX (Data Analysis Expressions)
+
+- Power Query Editor
+
+- Excel/CSV Data Sources
 
 Impact: Enabled faster, data-driven decisions by turning raw Amazon sales data into interactive visuals.
 
