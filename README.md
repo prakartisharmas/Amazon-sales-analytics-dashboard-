@@ -2,6 +2,8 @@
 
 <img width="1295" height="730" alt="snapshot of dashboard" src="https://github.com/user-attachments/assets/2a3e07cc-f5b9-40fe-9d6c-280e23720700" />
 
+[View Dataset](https://github.com/prakartisharmas/Amazon-sales-analytics-dashboard-/blob/main/Amazon%201%20Final.xlsx)
+
 
 ## Amazon Sales Analytics Dashboard:
 Built an interactive Power BI dashboard to analyze Amazon sales data, tracking key metrics like total sales, profit, quantity sold, and YoY growth. Included product, category, and regional performance insights with dynamic filters, drill-downs, and custom DAX measures to support data-driven decision-making.
